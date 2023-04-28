@@ -21,7 +21,7 @@ Current project: [GameStock UA](https://github.com/VladyslavMalyshenko/GameStock
 ### Tools
 <div align="center">
   <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png" alt="Webstorm" height="50" /></a>  
-  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="50" /></a>
+  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png?auto=format" alt="Sublime text" height="50" /></a>
   <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png" alt="Markdown" height="50" /></a>
   <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="ChatGPT" height="50" /></a> 
   <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="POSTMAN" height="50" /></a> 
