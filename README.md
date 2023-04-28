@@ -16,3 +16,13 @@ Current project: [GameStock UA](https://github.com/VladyslavMalyshenko/GameStock
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; padding: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; padding: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
 </div>
+
+
+### Tools
+<div align="center">
+  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm" height="50" /></a>  
+  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="50" /></a>
+  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png" alt="Markdown" height="50" /></a>
+  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="ChatGPT" height="50" /></a> 
+  <a href="" target="_blank"><img style="margin: 10px; padding: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="POSTMAN" height="50" /></a> 
+</div>
