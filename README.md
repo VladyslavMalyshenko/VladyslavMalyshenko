@@ -5,7 +5,7 @@
 I'm the beginner, who is passionate about FrontEnd Development and likes to write code.
 
 
-<h1>📊My stats📊</h1>
+<h1><img src="https://media.tenor.com/N6wvyhQd7vMAAAAC/floating-stars.gif" style="width: 40px; margin-bottom: -10px">My stats<img src="https://media.tenor.com/N6wvyhQd7vMAAAAC/floating-stars.gif" style="width: 40px; margin-bottom: -10px"></h1>
 
 
 ![VladyslavMalyshenko's Stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
