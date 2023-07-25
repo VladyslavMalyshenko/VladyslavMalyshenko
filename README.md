@@ -8,6 +8,6 @@ I'm the beginner, who is passionate about FrontEnd Development and likes to writ
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1eTI1ajg4aGJ4MXdvYzY5c3IxbXN3MmVmaGo1bnZlcHZ3eDV2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/724AElPsJeOm8cdoNM/giphy.gif" style="width: 40px; margin-bottom: -10px">My stats<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1eTI1ajg4aGJ4MXdvYzY5c3IxbXN3MmVmaGo1bnZlcHZ3eDV2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/724AElPsJeOm8cdoNM/giphy.gif" style="width: 40px; margin-bottom: -10px"></h1>
 
 
-![VladyslavMalyshenko's Stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![Vladyslav Malyshenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&show_icons=true&theme=midnight-purple)
 
 ![VladyslavMalyshenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavMalyshenko&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
