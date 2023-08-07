@@ -10,4 +10,6 @@ I'm the beginner, who is passionate about FrontEnd Development and likes to writ
 
 ![Vladyslav Malyshenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&show_icons=true&theme=midnight-purple)
 
+![VladyslavMalyshenko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladyslavMalyshenko&theme=midnight-purple&hide_border=false)
+
 ![VladyslavMalyshenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavMalyshenko&show_icons=true&theme=midnight-purple)
