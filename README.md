@@ -4,8 +4,19 @@
 
 I'm the beginner, who is passionate about FrontEnd Development and likes to write code.
 
+### <h1>My skills</h1>
 
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1eTI1ajg4aGJ4MXdvYzY5c3IxbXN3MmVmaGo1bnZlcHZ3eDV2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/724AElPsJeOm8cdoNM/giphy.gif" style="width: 40px; margin-bottom: -10px">My stats<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1eTI1ajg4aGJ4MXdvYzY5c3IxbXN3MmVmaGo1bnZlcHZ3eDV2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/724AElPsJeOm8cdoNM/giphy.gif" style="width: 40px; margin-bottom: -10px"></h1>
+<p align-items='center'>
+  <img src="https://img.freepik.com/free-icon/html-5_318-566077.jpg" width="50px" height="50px" alt="HTML">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50px" height="50px" alt="CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="55px" height="50px" alt="React.JS">
+  <img src="https://axios-http.com/assets/logo.svg" width="50px" height="50px" alt="Axios">
+</p>
+
+
+
+### <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1eTI1ajg4aGJ4MXdvYzY5c3IxbXN3MmVmaGo1bnZlcHZ3eDV2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/724AElPsJeOm8cdoNM/giphy.gif" style="width: 40px; margin-bottom: -10px">My stats<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1eTI1ajg4aGJ4MXdvYzY5c3IxbXN3MmVmaGo1bnZlcHZ3eDV2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/724AElPsJeOm8cdoNM/giphy.gif" style="width: 40px; margin-bottom: -10px"></h1>
 
 
 ![Vladyslav Malyshenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&show_icons=true&theme=midnight-purple)
