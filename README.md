@@ -22,8 +22,6 @@ I'm the beginner, who is passionate about FrontEnd Development and likes to writ
 ### <h1>My stats</h1>
 
 
-![VladyslavMalyshenko's Stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![VladyslavMalyshenko's Stats](https://github-readme-stats.vercel.app/api?username=VladyslavMalyshenko&rank_icon=github&bg_color=45,cc7efc5e,ffa8eb5e&title_color=ffffff&text_color=ffffff&icon_color=fc90d26e&show_icons=true&hide_border=true&ring_color=fc90bb&count_private=true)
 
-![VladyslavMalyshenko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladyslavMalyshenko&theme=material-palenight&hide_border=true)
-
-![VladyslavMalyshenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavMalyshenko&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![VladyslavMalyshenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavMalyshenko&theme=material-palenight&show_icons=true&bg_color=45,cc7efc5e,ffa8eb5e&title_color=ffffff&text_color=ffffff&hide_border=true&layout=donut)
