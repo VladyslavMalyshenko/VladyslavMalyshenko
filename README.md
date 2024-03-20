@@ -17,8 +17,6 @@ I'm the beginner, who is passionate about FrontEnd Development and likes to writ
   <img src="https://axios-http.com/assets/logo.svg" width="50px" height="50px" alt="Axios">
 </p>
 
-
-
 ### <h1>My stats</h1>
 
 
