@@ -1,6 +1,6 @@
 <img align="left" style="width: 100px" src="https://i.ibb.co/4gnFkby/pixelated-image.png" alt="3c5-Vp-Gp-Gwyrqm-M7-QXBnzd-bg-removed" border="0">
 
-### Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Hello! I'm Vladyslav Malyshenko <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 I'm experienced front-end developer passionate about crafting engaging, user-friendly web applications🕸️.
 
