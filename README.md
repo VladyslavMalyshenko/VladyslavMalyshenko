@@ -23,6 +23,6 @@ I'm experienced front-end developer passionate about crafting engaging, user-fri
 ### <h1>My stats</h1>
 
 
-![VladyslavMalyshenko's Stats](https://github-readme-stats-vladyslavs-projects-b7187cbd.vercel.app/api?username=VladyslavMalyshenko&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&ring_color=fc90bb&count_private=true)
+![My Stats](https://github-readme-stats-vladyslavs-projects-b7187cbd.vercel.app/api?username=VladyslavMalyshenko&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&ring_color=fc90bb&count_private=true)
 
-![VladyslavMalyshenko's Top Languages](https://github-readme-stats-vladyslavs-projects-b7187cbd.vercel.app/api/top-langs/?username=VladyslavMalyshenko&show_icons=true&theme=buefy&hide_border=true&layout=donut)
+![My Top Languages](https://github-readme-stats-vladyslavs-projects-b7187cbd.vercel.app/api/top-langs/?username=VladyslavMalyshenko&show_icons=true&theme=buefy&hide_border=true&layout=donut)
